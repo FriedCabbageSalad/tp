@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "eventory-developer-guide": "Eventory Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -126,6 +126,7 @@
       "title": "User Guide",
       "headings": {
         "eventory-user-guide": "Eventory User Guide",
+        "table-of-contents": "Table Of Contents",
         "quick-start": "Quick start",
         "terminology": "Terminology",
         "features": "Features",
